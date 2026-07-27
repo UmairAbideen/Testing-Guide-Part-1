@@ -61,19 +61,6 @@ Automatic Verification
 ✅ Assertions  
 ✅ Pest Testing Framework  
 ✅ Mocking & Laravel Fakes  
-✅ Database Testing  
-
----
-
-# 🛠️ Tech Stack
-
-| Tool | Purpose |
-|------|---------|
-| Laravel 10 | PHP Framework |
-| PHPUnit | Testing Framework |
-| Pest | Modern Testing Framework |
-| Eloquent ORM | Database Testing |
-| MySQL | Database |
 
 ---
 
