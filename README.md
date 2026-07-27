@@ -427,7 +427,7 @@ public function test_email_is_sent()
 
 ---
 
-# 6️⃣ Laravel Fake Testing
+# Laravel Fake Testing
 
 Laravel provides built-in fakes.
 
