@@ -1,6 +1,6 @@
 # ⚡Testing-and-Quality-Assurance-Guide-Part-1
 
-This project demonstrates the fundamentals of **Unit Testing in Laravel 10** using **PHPUnit**, **Pest**, **Assertions**, and **Mocking**.
+This project demonstrates the fundamentals of **Unit Testing in Laravel** using **PHPUnit**, **Pest**, **Assertions**, and **Mocking**.
 
 Testing allows developers to verify application behavior automatically and ensures that new changes do not break existing functionality.
 
