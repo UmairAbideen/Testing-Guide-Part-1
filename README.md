@@ -194,7 +194,7 @@ class UserTest extends TestCase
 
 ---
 
-# 3️⃣ Assertions
+# Assertions
 
 ## What are Assertions?
 
@@ -279,7 +279,7 @@ $response->assertRedirect('/login');
 
 ---
 
-# 4️⃣ Pest Testing
+# 3️⃣ Pest Testing
 
 ## What is Pest?
 
@@ -355,7 +355,7 @@ test('user has correct email', function(){
 
 ---
 
-# 5️⃣ Mocking
+# 4️⃣ Mocking
 
 ## What is Mocking?
 
