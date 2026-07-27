@@ -532,16 +532,5 @@ Different testing techniques solve different problems. Choosing the right approa
 |------------|---------|-------------|---------|
 | **Unit Testing** | Test small pieces of code independently | When testing a single method, function, or class | Testing price calculation logic |
 | **PHPUnit** | Testing framework used to write and execute tests | When creating automated tests in Laravel | Running test cases and generating reports |
-| **Assertions** | Verify expected results | When checking if the output matches the expected behavior | Verify user exists in database |
 | **Pest** | Modern cleaner syntax for writing tests | When you want simpler and more readable tests | Writing Laravel tests with less code |
 | **Mocking** | Replace real dependencies with fake objects | When testing external services without performing real actions | Fake emails, APIs, payments |
-| **Laravel Fakes** | Laravel-provided testing replacements | When testing Laravel services | Mail, Queue, Events, Notifications |
-
----
-
-# 🧭 Which Testing Technique Should You Use?
-
-## 1️⃣ Testing Business Logic
-
-Example:
-
