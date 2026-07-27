@@ -1,6 +1,6 @@
-# ⚡Testing-and-Quality-Assurance-Guide-Part-1
+# ⚡Testing-Guide-Part-1
 
-This project demonstrates the fundamentals of **Testing & Quality Assurance in Laravel** using **PHPUnit, Assertions, Pest, and Mocking**.
+This project demonstrates the fundamentals of **Testing in Laravel** using **PHPUnit, Assertions, Pest, and Mocking**.
 
 Automated testing helps ensure that application features work correctly, prevents future bugs, and improves code reliability during development.
 
