@@ -1,4 +1,4 @@
-# ⚡Testing-Guide-Part-1
+# ⚡Testing-Guide-Part-1 (Unit Testing)
 
 This project demonstrates the fundamentals of **Testing in Laravel** using **PHPUnit, Assertions, Pest, and Mocking**.
 
