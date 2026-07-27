@@ -56,8 +56,8 @@ Automatic Verification
 
 # 🧩 Testing Concepts Covered
 
-✅ PHPUnit  
 ✅ Unit Testing  
+✅ PHPUnit  
 ✅ Assertions  
 ✅ Pest Testing Framework  
 ✅ Mocking & Laravel Fakes  
