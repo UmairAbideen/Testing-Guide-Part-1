@@ -279,42 +279,7 @@ $response->assertRedirect('/login');
 
 ---
 
-# 4️⃣ Feature Testing Example
-
-Testing user registration:
-
-```php
-public function test_user_can_register()
-{
-
-    $response = $this->post('/register',[
-
-        'name'=>'John',
-
-        'email'=>'john@test.com',
-
-        'password'=>'password',
-
-        'password_confirmation'=>'password'
-
-    ]);
-
-
-    $response->assertRedirect('/dashboard');
-
-
-    $this->assertDatabaseHas('users',[
-
-        'email'=>'john@test.com'
-
-    ]);
-
-}
-```
-
----
-
-# 5️⃣ Pest Testing
+# 4️⃣ Pest Testing
 
 ## What is Pest?
 
@@ -390,7 +355,7 @@ test('user has correct email', function(){
 
 ---
 
-# 6️⃣ Mocking
+# 5️⃣ Mocking
 
 ## What is Mocking?
 
@@ -462,7 +427,7 @@ public function test_email_is_sent()
 
 ---
 
-# 7️⃣ Laravel Fake Testing
+# 6️⃣ Laravel Fake Testing
 
 Laravel provides built-in fakes.
 
